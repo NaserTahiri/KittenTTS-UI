@@ -21,9 +21,3 @@ The UI opens at `http://127.0.0.1:7860`.
 - First generation downloads the selected model from Hugging Face.
 - Output wav files are saved in `C:\AI\KittenTTS-UI\outputs`.
 - Model options and voices come from the official KittenTTS README.
-
-## Share With KittenTTS Team
-If you want to propose this as an official UI, open a new issue in this repo and choose:
-- `KittenTTS Official UI Proposal`
-
-That template includes a ready-to-send message for the KittenTTS maintainers.
